@@ -1,0 +1,12 @@
+import React from 'react';
+
+const UiComponent = () => {
+    return (
+        <div>
+            <h2>UI Component</h2>
+            <p>This is a placeholder for your UI component.</p>
+        </div>
+    );
+};
+
+export default UiComponent;
